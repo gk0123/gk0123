@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Android Studio, Spring and Angular project**
 
-- 🌱 I’m currently learning **cloud services**
-
 - 📫 How to reach me **failedexperiment001@gmail.com**
 
 - ⚡ Fun fact **The egg came first.**
