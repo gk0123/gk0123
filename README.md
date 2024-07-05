@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **The egg came first.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Where to find me:</h3>
 <p align="left">
 <a href="https://instagram.com/gauravkumar7735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravkumar7735" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/failedexperimen1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="failedexperimen1" height="30" width="40" /></a>
