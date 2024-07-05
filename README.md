@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 <h3 align="center">A passionate Java developer</h3>
 
-  <img align="right" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" width="300" />
+  <img align="right" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="300" />
 
 
 - 🔭 I’m currently working on **Android Studio, Spring and Angular project**
