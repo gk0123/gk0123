@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Android Studio, Spring and Angular project**
 
-- 📫 How to reach me **failedexperiment001@gmail.com**
+- 📫 How to reach me - Just drop an email at **ce20b009@iitp.ac.in**
 
 - ⚡ Fun fact **The egg came first.**
 
