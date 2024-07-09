@@ -4,7 +4,7 @@
   <img align="right" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="300" />
 
 
-- 🔭 I’m currently working on **Android Studio, Spring and Angular project**
+- 🔭 I’m currently working on **Android Studio, Spring and Angular projects**
 
 - 📫 How to reach me - Just drop an email at **ce20b009@iitp.ac.in**
 
